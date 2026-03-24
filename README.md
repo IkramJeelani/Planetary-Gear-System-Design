@@ -1,1 +1,1 @@
-# Planetary-Gear-System
+# Planetary Gear System
