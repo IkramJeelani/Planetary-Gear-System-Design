@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project presents the design of a **planetary gear system** developed in SolidWorks. The goal was to model a transmission system and validate its motion and gear ratio through simulation.
+This project presents the design of a planetary gear system developed in SolidWorks. The goal was to model a transmission system and validate its motion and gear ratio through simulation.
 
 ## 📂 Project Structure
 
