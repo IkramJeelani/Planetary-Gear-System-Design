@@ -101,9 +101,9 @@ For proper spacing of planet gears:
 ### 🔧 Exploded View
 
 <p align="center">
-  <img src="Media/exploded_1.png" width="400"/>
-  <img src="Media/exploded_2.png" width="400"/>
-  <img src="Media/exploded_3.png" width="400"/>
+  <img src="Media/exploded_1.png" width="500"/>
+  <img src="Media/exploded_2.png" width="500"/>
+  <img src="Media/exploded_3.png" width="500"/>
 </p>
 
 ### 🔍 Cross Section
