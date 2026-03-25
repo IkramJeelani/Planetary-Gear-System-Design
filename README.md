@@ -104,7 +104,7 @@ For proper spacing of planet gears:
 ![alt text](<Media/Cross Section 1.png>)
 ![alt text](<Media/Cross Section 2.png>)
 ### Motion simulation
-<video controls src="Media/Motion Study Animation.mp4" title="Title"></video>
+[▶️ Watch Motion Study](Media/Motion%20Study%20Animation.mp4)
 
 ## 🎥 Simulation & Results
 
