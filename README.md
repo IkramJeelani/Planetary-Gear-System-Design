@@ -8,7 +8,7 @@ This project presents the design of a **planetary gear system** developed in Sol
 
 ## ⚙️ Key Features
 
-* Complete 3D CAD modeling of sun, planet, and ring gears
+* Complete 3D CAD modeling of sun, planet, ring gears, and other supporting parts.
 * Assembly of a functional planetary gear train
 * Verified gear ratio through SolidWorks motion simulation
 * Parametric design approach for easy modification
@@ -18,8 +18,8 @@ This project presents the design of a **planetary gear system** developed in Sol
 
 ## 🧠 Technical Specifications
 
-* **Gear Type:** Spur / Helical *(update if needed)*
-* **Module (m):** 2 mm *(update if different)*
+* **Gear Type:** Spur
+* **Module (m):** 1 mm
 * **Configuration:** Planetary Gear System
 
 ### Gear Parameters:
@@ -60,12 +60,10 @@ The design was also tested in SolidWorks, where the observed motion confirmed th
 ## 📂 Project Structure
 
 ```
-planetary-gear-system/
-│
-├── CAD/              # SolidWorks part and assembly files
-├── Drawings/         # Technical drawings (PDF)
-├── Images/           # Renders and screenshots
-├── Calculations/     # Gear calculations and analysis
+Planetary-Gear-System-Design-SolidWorks/ 
+│ 
+├── Media/ # screenshots, animations 
+├── SolidWorks Files/ # .SLDPRT and .SLDASM files 
 └── README.md
 ```
 
@@ -78,30 +76,6 @@ planetary-gear-system/
 * Assembly view
 * Exploded view
 * Motion simulation
-
----
-
-## 🚀 Applications
-
-* Automotive gearboxes
-* Robotic joints and actuators
-* Industrial machinery
-* Aerospace transmission systems
-
----
-
-## 📈 Learning Outcomes
-
-* Practical understanding of planetary gear kinematics
-* Experience with SolidWorks assembly and motion studies
-* Gear design fundamentals (module, pitch diameter, tooth relationships)
-* Translating theoretical calculations into functional CAD models
-
----
-
-## 🔗 Author
-
-Designed and developed as part of a mechatronics engineering project.
 
 ---
 
