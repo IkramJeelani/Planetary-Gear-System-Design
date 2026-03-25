@@ -44,10 +44,8 @@ Target Gear Ratio (R) = 6 : 1
 
 * Selected outer diameter:
   D₀ = 92 mm
-
 * Pitch diameter calculation:
   D = D₀ − 2m = 92 − 2(1) = 90 mm
-
 * Number of teeth on ring gear:
   Nr = D / m = 90 / 1 = 90 teeth
 
