@@ -113,6 +113,11 @@ For proper spacing of planet gears:
   <img src="Media/Cross Section 2.png"/>
 </p>
 
+<p align="center">
+  <img src="Media/cross_section_1.png" width="500"/>
+  <img src="Media/cross_section_2.png" width="500"/>
+</p>
+
 ---
 
 ### 🎥 Motion Simulation
