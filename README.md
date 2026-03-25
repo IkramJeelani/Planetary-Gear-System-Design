@@ -4,49 +4,6 @@
 
 This project presents the design of a **planetary gear system** developed in SolidWorks. The goal was to model a transmission system and validate its motion and gear ratio through simulation.
 
-## ⚙️ Key Features
-
-* Complete 3D CAD modeling of sun, planet, ring gears, and other supporting parts.
-* Assembly of a functional planetary gear train
-* Verified gear ratio through SolidWorks motion simulation
-* Parametric design approach for easy modification
-* Smooth gear meshing with no interference
-
-## 🧠 Technical Specifications
-
-* **Gear Type:** Spur
-* **Module (m):** 1 mm
-* **Configuration:** Planetary Gear System
-
-### Gear Parameters:
-
-* **Sun Gear Teeth (Ns):** 14
-* **Planet Gear Teeth (Np):** 14
-* **Ring Gear Teeth (Nr):** 42
-
-## 🔢 Gear Ratio Calculation
-
-The gear ratio of a planetary gear system is given by:
-
-[
-\text{Gear Ratio} = 1 + \frac{N_r}{N_s}
-]
-
-Substituting values:
-
-[
-\text{Gear Ratio} = 1 + \frac{42}{14} = 4:1
-]
-
-The design was also tested in SolidWorks, where the observed motion confirmed the expected transmission behavior.
-
-## 🎥 Simulation & Results
-
-* Motion study performed in SolidWorks to verify rotational behavior
-* Smooth transmission between gears with correct constraints
-* No collision or interference detected
-* Output rotation matches calculated gear ratio
-
 ## 📂 Project Structure
 
 ```
@@ -57,6 +14,84 @@ Planetary-Gear-System-Design-SolidWorks/
 └── README.md
 ```
 
+## ⚙️ Key Features
+
+* Complete 3D CAD modeling of sun, planet, ring gears, and other supporting parts.
+* Assembly of a functional planetary gear train
+* Verified gear ratio through SolidWorks motion simulation
+* Parametric design approach for easy modification
+* Smooth gear meshing with no interference
+
+## 📊 Gear Design & Engineering Calculations
+
+### 1. Design Objective
+
+To design a **planetary gear system** achieving a target gear reduction of:
+
+**Target Gear Ratio (R) = 6 : 1**
+
+### 2. Initial Parameters
+
+* Module (m) = 1 mm (constant for all gears)
+* Number of planet gears = 4
+* Compact design constraint for efficient packaging
+
+### 3. Ring Gear Design
+
+* Selected outer diameter:
+  **D₀ = 92 mm**
+
+* Pitch diameter calculation:
+  **D = D₀ − 2m = 92 − 2(1) = 90 mm**
+
+* Number of teeth on ring gear:
+  **Nr = D / m = 90 / 1 = 90 teeth**
+
+### 4. Sun Gear Calculation
+
+Using planetary gear relation:
+
+**R = 1 + (Nr / Ns)**
+
+Rearranging:
+
+**Ns = Nr / (R − 1)**
+
+Substituting values:
+
+**Ns = 90 / (6 − 1) = 18 teeth**
+
+### 5. Planet Gear Calculation
+
+Planet gear teeth:
+
+**Np = (Nr − Ns) / 2**
+
+**Np = (90 − 18) / 2 = 36 teeth**
+
+### 6. Assembly Constraint Check
+
+For proper spacing of planet gears:
+
+**(Nr − Ns) / Number of Planets must be an integer**
+
+**(90 − 18) / 4 = 18 ✔**
+
+✅ Condition satisfied — uniform distribution achieved
+
+### 7. Final Gear Parameters
+
+* Ring Gear (Nr) = 90 teeth
+* Sun Gear (Ns) = 18 teeth
+* Planet Gear (Np) = 36 teeth
+* Number of Planets = 4
+
+### 8. Final Gear Ratio
+
+**Gear Ratio = 1 + (Nr / Ns)**
+**= 1 + (90 / 18)**
+**= 6 : 1**
+
 ## 🖼️ Preview
 
 *(Add screenshots or renders here)*
@@ -64,6 +99,13 @@ Planetary-Gear-System-Design-SolidWorks/
 * Assembly view
 * Exploded view
 * Motion simulation
+
+## 🎥 Simulation & Results
+
+* Motion study performed in SolidWorks to verify rotational behavior
+* Smooth transmission between gears with correct constraints
+* No collision or interference detected
+* Output rotation matches calculated gear ratio
 
 ## 📌 Notes
 
