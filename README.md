@@ -121,7 +121,7 @@ For proper spacing of planet gears:
   <img src="Media/Motion Study Animation.gif"/>
 </p>
 
-## 🎥 Simulation & Results
+## ✅ Results
 
 * Motion study performed in SolidWorks to verify rotational behavior
 * Smooth transmission between gears with correct constraints
