@@ -81,7 +81,7 @@ For proper spacing of planet gears:
 
 **(90 − 18) / 4 = 18 ✔**
 
-✅ Condition satisfied — uniform distribution achieved
+✅ Condition satisfied
 
 ### 7. Final Gear Parameters
 
