@@ -126,7 +126,14 @@ For proper spacing of planet gears:
 * Motion study performed in SolidWorks to verify rotational behavior
 * Smooth transmission between gears with correct constraints
 * No collision or interference detected
-* Output rotation matches calculated gear ratio
+* Output rotation matches calculated gear ratio (6:1)
+
+## 📈 What I Learned
+
+- Practical implementation of planetary gear kinematics  
+- Translating theoretical gear equations into CAD models  
+- Importance of assembly constraints in motion behavior  
+- Validation of mechanical systems using simulation tools  
 
 ## 📌 Notes
 
