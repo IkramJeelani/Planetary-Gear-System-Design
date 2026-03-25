@@ -30,9 +30,9 @@ Planetary-Gear-System-Design-SolidWorks/
 
 ### 1. Design Objective
 
-To design a **planetary gear system** achieving a target gear reduction of:
+To design a planetary gear system achieving a target gear reduction of:
 
-**Target Gear Ratio (R) = 6 : 1**
+Target Gear Ratio (R) = 6 : 1
 
 ### 2. Initial Parameters
 
@@ -43,43 +43,43 @@ To design a **planetary gear system** achieving a target gear reduction of:
 ### 3. Ring Gear Design
 
 * Selected outer diameter:
-  **D₀ = 92 mm**
+  D₀ = 92 mm
 
 * Pitch diameter calculation:
-  **D = D₀ − 2m = 92 − 2(1) = 90 mm**
+  D = D₀ − 2m = 92 − 2(1) = 90 mm
 
 * Number of teeth on ring gear:
-  **Nr = D / m = 90 / 1 = 90 teeth**
+  Nr = D / m = 90 / 1 = 90 teeth
 
 ### 4. Sun Gear Calculation
 
 Using planetary gear relation:
 
-**R = 1 + (Nr / Ns)**
+R = 1 + (Nr / Ns)
 
 Rearranging:
 
-**Ns = Nr / (R − 1)**
+Ns = Nr / (R − 1)
 
 Substituting values:
 
-**Ns = 90 / (6 − 1) = 18 teeth**
+Ns = 90 / (6 − 1) = 18 teeth
 
 ### 5. Planet Gear Calculation
 
 Planet gear teeth:
 
-**Np = (Nr − Ns) / 2**
+Np = (Nr − Ns) / 2
 
-**Np = (90 − 18) / 2 = 36 teeth**
+Np = (90 − 18) / 2 = 36 teeth
 
 ### 6. Assembly Constraint Check
 
 For proper spacing of planet gears:
 
-**(Nr − Ns) / Number of Planets must be an integer**
+(Nr − Ns) / Number of Planets must be an integer
 
-**(90 − 18) / 4 = 18 ✔**
+(90 − 18) / 4 = 18 ✔
 
 ✅ Condition satisfied
 
@@ -92,9 +92,9 @@ For proper spacing of planet gears:
 
 ### 8. Final Gear Ratio
 
-**Gear Ratio = 1 + (Nr / Ns)**
-**= 1 + (90 / 18)**
-**= 6 : 1**
+Gear Ratio = 1 + (Nr / Ns)
+= 1 + (90 / 18)
+= 6 : 1
 
 ## 🖼️ Preview
 
