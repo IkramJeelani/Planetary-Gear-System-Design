@@ -96,14 +96,14 @@ For proper spacing of planet gears:
 
 ## 🖼️ Preview
 
-* Exploded view
+### Exploded view
 ![alt text](<Media/Exploded 1.png>)
 ![alt text](<Media/Exploded 2.png>)
 ![alt text](<Media/Exploded 3.png>)
-* Cross Section
+### Cross Section
 ![alt text](<Media/Cross Section 1.png>)
 ![alt text](<Media/Cross Section 2.png>)
-* Motion simulation
+### Motion simulation
 <video controls src="Media/Motion Study Animation.mp4" title="Title"></video>
 
 ## 🎥 Simulation & Results
