@@ -4,8 +4,6 @@
 
 This project presents the design of a **planetary gear system** developed in SolidWorks. The goal was to model a transmission system and validate its motion and gear ratio through simulation.
 
----
-
 ## ⚙️ Key Features
 
 * Complete 3D CAD modeling of sun, planet, ring gears, and other supporting parts.
@@ -13,8 +11,6 @@ This project presents the design of a **planetary gear system** developed in Sol
 * Verified gear ratio through SolidWorks motion simulation
 * Parametric design approach for easy modification
 * Smooth gear meshing with no interference
-
----
 
 ## 🧠 Technical Specifications
 
@@ -27,8 +23,6 @@ This project presents the design of a **planetary gear system** developed in Sol
 * **Sun Gear Teeth (Ns):** 14
 * **Planet Gear Teeth (Np):** 14
 * **Ring Gear Teeth (Nr):** 42
-
----
 
 ## 🔢 Gear Ratio Calculation
 
@@ -46,16 +40,12 @@ Substituting values:
 
 The design was also tested in SolidWorks, where the observed motion confirmed the expected transmission behavior.
 
----
-
 ## 🎥 Simulation & Results
 
 * Motion study performed in SolidWorks to verify rotational behavior
 * Smooth transmission between gears with correct constraints
 * No collision or interference detected
 * Output rotation matches calculated gear ratio
-
----
 
 ## 📂 Project Structure
 
@@ -67,8 +57,6 @@ Planetary-Gear-System-Design-SolidWorks/
 └── README.md
 ```
 
----
-
 ## 🖼️ Preview
 
 *(Add screenshots or renders here)*
@@ -76,8 +64,6 @@ Planetary-Gear-System-Design-SolidWorks/
 * Assembly view
 * Exploded view
 * Motion simulation
-
----
 
 ## 📌 Notes
 
