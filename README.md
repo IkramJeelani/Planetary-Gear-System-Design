@@ -4,7 +4,9 @@
 
 This project presents the design of a planetary gear system developed in SolidWorks. The goal was to model a transmission system and validate its motion and gear ratio through simulation.
 
-![Side View of Assembly](Media/Assembly.png)
+<p align="center">
+  <img src="Media/Assembly.png" width="400"/>
+</p>
 
 ## 📂 Project Structure
 
@@ -96,15 +98,32 @@ For proper spacing of planet gears:
 
 ## 🖼️ Preview
 
-### Exploded view
-![alt text](<Media/Exploded 1.png>)
-![alt text](<Media/Exploded 2.png>)
-![alt text](<Media/Exploded 3.png>)
-### Cross Section
-![alt text](<Media/Cross Section 1.png>)
-![alt text](<Media/Cross Section 2.png>)
-### Motion simulation
-[▶️ Watch Motion Study](Media/Motion%20Study%20Animation.mp4)
+### 🔧 Exploded View
+
+<p align="center">
+  <img src="Media/Exploded 1.png" width="400"/>
+  <img src="Media/Exploded 2.png" width="400"/>
+  <img src="Media/Exploded 3.png" width="400"/>
+</p>
+
+### 🔍 Cross Section
+
+<p align="center">
+  <img src="Media/Cross Section 1.png" width="400"/>
+  <img src="Media/Cross Section 2.png" width="400"/>
+</p>
+
+---
+
+### 🎥 Motion Simulation
+
+<p align="center">
+  <img src="Media/motion.gif" width="500"/>
+</p>
+
+<p align="center">
+  <a href="Media/Motion%20Study%20Animation.mp4">▶️ Download Full Video</a>
+</p>
 
 ## 🎥 Simulation & Results
 
