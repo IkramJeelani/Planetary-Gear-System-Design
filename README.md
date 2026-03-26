@@ -1,4 +1,4 @@
-# Planetary Gear System Design (SolidWorks)
+# Planetary Gear System Design
 
 ## 📌 Overview
 
