@@ -2,7 +2,11 @@
 
 ## 📌 Overview
 
-This project presents the design of a planetary gear system developed in SolidWorks. The goal was to model a transmission system and validate its motion and gear ratio through simulation.
+This project presents the design, modeling, and validation of a planetary gear system developed in SolidWorks.
+
+The objective was to design a planetary gear system capable of achieving a 6:1 reduction ratio using theoretical gear relationships and geometric constraints. Key parameters such as module, number of teeth, and pitch diameters were calculated to ensure proper meshing.
+
+The complete system was modeled and assembled in SolidWorks, followed by a motion study to evaluate kinematic behavior and gear interaction. The simulation confirmed smooth, interference-free operation and verified that the output motion matches the expected gear ratio.
 
 <p align="center">
   <img src="Media/assembly.png" width="500"/>
